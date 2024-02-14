@@ -41,8 +41,8 @@ _✅ 긍정적이다_
 
 --->
 
-<div style="text-align:center;">
-  <img height="150" src="https://i1.pickpik.com/photos/905/504/898/stars-water-banner-header-0e325286441cc61af7bf31519a0060fc.jpg">
+<div align="center">
+  <img height="150" src="https://i1.pickpik.com/photos/905/504/898/stars-water-banner-header-0e325286441cc61af7bf31519a0060fc.jpg" style="width: 100%; height: auto;">
 </div>
 
 ###
