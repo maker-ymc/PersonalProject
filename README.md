@@ -5,13 +5,13 @@
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
-    </a>
+    </a> <br>
     <a href="https://solved.ac/maker-ymc/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=maker-ymc" alt="Solved.ac Profile" width="300">
     </a>
+    <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?">
+        <img src="https%3A%2F%2Fgithub.com%2Fmaker-ymc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)" alt="hits"></a>
 </div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaker-ymc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### 💡 let's maker, 창작자가 되어보자
 
