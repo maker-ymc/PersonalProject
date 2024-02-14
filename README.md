@@ -26,8 +26,7 @@ _✅ 긍정적이다_
 
 ## 최근의 경험
 
-![오키나와.jpg](https://drive.google.com/file/d/1jcuvDihO77_TBR-Fyjjg_pwner2fDWMF/view?usp=sharing)
+![오키나와의 바다](https://drive.google.com/file/d/1jcuvDihO77_TBR-Fyjjg_pwner2fDWMF/view?usp=sharing)
 
-## Links
-
-Github [Markdown Live Preview](https://github.io/maker-ymc/).
+## Social
+-ready
