@@ -42,30 +42,7 @@ _✅ 긍정적이다_
 --->
 
 <div style="text-align:center;">
-  <img height="150" src="https://i1.pickpik.com/photos/905/504/898/stars-water-banner-header-0e325286441cc61af7bf31519a0060fc.jpg"> <br>
-  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaker-ymc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" target="_blank">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaker-ymc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" style="border-radius: 5px;"/>
-  </a> <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
-  </a> <br>
-  <a href="https://solved.ac/maker-ymc/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=maker-ymc" alt="Solved.ac Profile" width="300">
-  </a>
-</div>
-
-###
-
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/%EC%98%81%EB%AF%B8-%EC%B5%9C-0263522b4" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="young8@knou.ac.kr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  <img height="150" src="https://i1.pickpik.com/photos/905/504/898/stars-water-banner-header-0e325286441cc61af7bf31519a0060fc.jpg">
 </div>
 
 ###
@@ -108,3 +85,32 @@ _✅ 긍정적이다_
 ###
 
 <h3 align="left">🔥   My Stats : step by step but booster!</h3>
+
+###
+
+<div align="center">
+  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaker-ymc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" target="_blank">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaker-ymc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" style="border-radius: 5px;"/>
+  </a> <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
+  </a> <br>
+  <a href="https://solved.ac/maker-ymc/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=maker-ymc" alt="Solved.ac Profile" width="300">
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/%EC%98%81%EB%AF%B8-%EC%B5%9C-0263522b4" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="young8@knou.ac.kr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
