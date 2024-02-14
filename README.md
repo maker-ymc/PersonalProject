@@ -16,6 +16,11 @@ _✅ 긍정적이다_
 * Python
 * javascript
 
+### tools
+* VS code
+* git
+* sourcecode
+
 ### favorite thing
 
 1. music
