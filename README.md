@@ -2,15 +2,12 @@
 
 ![헤더](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hi,%20there🖐️&reversal=false&fontColor=black)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=maker-ymc)](https://solved.ac/maker-ymc/)
 <div style="text-align:center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="GitHub stats" width="400">
+        <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
     </a>
     <a href="https://solved.ac/maker-ymc/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=maker-ymc" alt="Solved.ac Profile" width="400">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=maker-ymc" alt="Solved.ac Profile" width="300">
     </a>
 </div>
 
