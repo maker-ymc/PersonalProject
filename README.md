@@ -3,17 +3,6 @@
 
 ![헤더](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hi,%20there🖐️&reversal=false&fontColor=black)
 
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
-    </a>
-    <a href="https://solved.ac/maker-ymc/">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=maker-ymc" alt="Solved.ac Profile" width="300">
-    </a>
-</div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaker-ymc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### 💡 let's maker, 창작자가 되어보자
 
 ## Advantage, 나의 장점 
@@ -52,11 +41,21 @@ _✅ 긍정적이다_
 
 --->
 
-<div align="center">
-  <img height="150" src="https://i1.pickpik.com/photos/905/504/898/stars-water-banner-header-0e325286441cc61af7bf31519a0060fc.jpg"  />
+<div style="text-align:center;">
+  <img height="150" src="https://i1.pickpik.com/photos/905/504/898/stars-water-banner-header-0e325286441cc61af7bf31519a0060fc.jpg"> <br>
+  <a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaker-ymc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" target="_blank">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaker-ymc&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" style="border-radius: 5px;"/>
+  </a> <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
+  </a> <br>
+  <a href="https://solved.ac/maker-ymc/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=maker-ymc" alt="Solved.ac Profile" width="300">
+  </a>
 </div>
 
 ###
+
 
 <br clear="both">
 
@@ -79,7 +78,12 @@ _✅ 긍정적이다_
 
 ###
 
-<p align="left">- 🔭 I want to become a back-end developer (aiming to be a full-stack developer)<br>- 📚 I'm currently learning I  javascript<br>- ⚡ In my free time I game 🎮 play guitar 🎸</p>
+<p align="left">
+  - 🔭 I want to become a back-end developer
+  (aiming to be a full-stack developer)<br>
+  - 📚 I'm currently learning I  javascript<br>
+  - ⚡ In my free time I game 🎮 play guitar 🎸
+</p>
 
 ###
 
@@ -104,19 +108,3 @@ _✅ 긍정적이다_
 ###
 
 <h3 align="left">🔥   My Stats : step by step but booster!</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-</div>
-
-###
