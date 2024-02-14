@@ -2,7 +2,7 @@
 
 ![헤더](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hi,%20there🖐️&reversal=false&fontColor=black)
 
-<div style="text-align:center;">
+<div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
     </a>
