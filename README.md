@@ -1,19 +1,33 @@
 
 <!--Header-->
-#
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=auto&text=👋안녕하세요😀&fontAlign=50&fontColor=555555&section=header&reversal=false&fontSize=38)
+<div align="center">
+  <img src=https://capsule-render.vercel.app/api?type=venom&height=200&color=auto&text=👋안녕하세요😀&fontAlign=50&fontColor=555555&section=header&reversal=false&fontSize=38>
+</div>
 
-<p style="text-align:right">
+
+<!--방문자-->
+<p style="text-align:center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaker-ymc%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false"/></a>
 </p>
 
-##
+<!--소개글-->
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">
   Full Stack 개발자로 성장하고 있는 개발러, young 입니다 🚀 <br>
 </p>
 
-###
+<!--활동뱃지-->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maker-ymc&layout=compact" alt="GitHub stats" width="280">
+  </a>
+</div>
+<!--end 활동뱃지-->
+
+<!--사용언어, tool-->
 <h3 align="left">🛠 Lang and Frameworks </h3>
 
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
@@ -36,23 +50,11 @@
 ![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
-
-###
+<!--end 사용언어, tool-->
 
 <h3 align="left">🔥   My Stats : step by step but booster!</h3>
 
-###
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=maker-ymc" alt="GitHub stats" width="300">
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
+<!-- 연락처-->
 <div align="center">
   <a href="https://www.linkedin.com/in/%EC%98%81%EB%AF%B8-%EC%B5%9C-0263522b4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -61,5 +63,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
